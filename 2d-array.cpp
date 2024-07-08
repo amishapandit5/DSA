@@ -8,6 +8,6 @@ int main(){
             cout<<arr[j]<<" ";
         }
     }
-    
+    cout<<"2d array successfully made";
     }
 }
